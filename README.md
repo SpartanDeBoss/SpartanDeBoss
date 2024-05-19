@@ -2,7 +2,7 @@
  👨🏻‍💻  About Me
 - 🎓  Studied Full Stack Web Development at HackYourFuture Copenhagen.
 - 🌱  I am constantly striving to expand my knowledge of web and software development in order to become a better developer every day.
-- 📫  e-mail: pastures77@gmail.com
+- 📫  e-mail: aaronm.ses1@gmail.com
 
 
 <!--
