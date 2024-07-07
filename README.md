@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postman,mysql,netlify,tailwind,nodejs,ts,materialUI,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postman,mysql,netlify,tailwind,nodejs,ts,materialui,vscode,)](https://skillicons.dev)
